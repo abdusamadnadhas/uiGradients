@@ -255,6 +255,10 @@
         "name": "Sea Blizz",
         "colors": ["#1CD8D2", "#93EDC7"]
     },
+  {
+        "name": "new",
+        "colors": ["#25ff25", "#55aa55"]
+    },
     {
         "name": "Opa",
         "colors": ["#3D7EAA", "#FFE47A"]
